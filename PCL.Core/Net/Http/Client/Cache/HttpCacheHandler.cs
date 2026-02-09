@@ -3,7 +3,7 @@ using System.Net.Http;
 using Microsoft.Data.Sqlite;
 using PCL.Core.IO.Storage;
 
-namespace PCL.Core.Net.Http.Client;
+namespace PCL.Core.Net.Http.Client.Cache;
 
 /// <summary>
 /// 
